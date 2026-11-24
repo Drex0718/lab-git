@@ -1,1 +1,2 @@
 # Laboratorio Git
+Autor: Jojhan
